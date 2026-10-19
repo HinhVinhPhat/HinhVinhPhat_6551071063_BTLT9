@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\BTCh11_Bai2\\",
+  "WorkspaceRootPath": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\New folder\\BTCh11_Bai2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4FDBBF5E-C58C-EF72-35C8-7D87FC17EC19}|BTCh11_Bai2.csproj|c:\\users\\v.phat\\documents\\code\\c#\\btch11_bai2\\formkhachthue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FDBBF5E-C58C-EF72-35C8-7D87FC17EC19}|BTCh11_Bai2.csproj|solutionrelative:formkhachthue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\V.Phat\\Documents\\Code\\C#\\New folder\\BTCh11_Bai2\\FormKhachThue.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormKhachThue.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FDBBF5E-C58C-EF72-35C8-7D87FC17EC19}|BTCh11_Bai2.csproj|c:\\users\\v.phat\\documents\\code\\c#\\btch11_bai2\\formkhachthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FDBBF5E-C58C-EF72-35C8-7D87FC17EC19}|BTCh11_Bai2.csproj|solutionrelative:formkhachthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\V.Phat\\Documents\\Code\\C#\\New folder\\BTCh11_Bai2\\FormKhachThue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FormKhachThue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FDBBF5E-C58C-EF72-35C8-7D87FC17EC19}|BTCh11_Bai2.csproj|c:\\users\\v.phat\\documents\\code\\c#\\btch11_bai2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4FDBBF5E-C58C-EF72-35C8-7D87FC17EC19}|BTCh11_Bai2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\V.Phat\\Documents\\Code\\C#\\New folder\\BTCh11_Bai2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FDBBF5E-C58C-EF72-35C8-7D87FC17EC19}|BTCh11_Bai2.csproj|c:\\users\\v.phat\\documents\\code\\c#\\btch11_bai2\\btch11_bai2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4FDBBF5E-C58C-EF72-35C8-7D87FC17EC19}|BTCh11_Bai2.csproj|solutionrelative:btch11_bai2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\V.Phat\\Documents\\Code\\C#\\New folder\\BTCh11_Bai2\\BTCh11_Bai2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BTCh11_Bai2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,9 +52,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FormKhachThue.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\BTCh11_Bai2\\FormKhachThue.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\New folder\\BTCh11_Bai2\\FormKhachThue.Designer.cs",
               "RelativeDocumentMoniker": "FormKhachThue.Designer.cs",
-              "ToolTip": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\BTCh11_Bai2\\FormKhachThue.Designer.cs",
+              "ToolTip": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\New folder\\BTCh11_Bai2\\FormKhachThue.Designer.cs",
               "RelativeToolTip": "FormKhachThue.Designer.cs",
               "ViewState": "AgIAAFgAAAAAAAAAAADwv3UAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -65,9 +65,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FormKhachThue.cs",
-              "DocumentMoniker": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\BTCh11_Bai2\\FormKhachThue.cs",
+              "DocumentMoniker": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\New folder\\BTCh11_Bai2\\FormKhachThue.cs",
               "RelativeDocumentMoniker": "FormKhachThue.cs",
-              "ToolTip": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\BTCh11_Bai2\\FormKhachThue.cs",
+              "ToolTip": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\New folder\\BTCh11_Bai2\\FormKhachThue.cs",
               "RelativeToolTip": "FormKhachThue.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAiwDMAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,9 +77,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\BTCh11_Bai2\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\New folder\\BTCh11_Bai2\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\BTCh11_Bai2\\appsettings.json",
+              "ToolTip": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\New folder\\BTCh11_Bai2\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -89,9 +89,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BTCh11_Bai2.csproj",
-              "DocumentMoniker": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\BTCh11_Bai2\\BTCh11_Bai2.csproj",
+              "DocumentMoniker": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\New folder\\BTCh11_Bai2\\BTCh11_Bai2.csproj",
               "RelativeDocumentMoniker": "BTCh11_Bai2.csproj",
-              "ToolTip": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\BTCh11_Bai2\\BTCh11_Bai2.csproj",
+              "ToolTip": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\New folder\\BTCh11_Bai2\\BTCh11_Bai2.csproj",
               "RelativeToolTip": "BTCh11_Bai2.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

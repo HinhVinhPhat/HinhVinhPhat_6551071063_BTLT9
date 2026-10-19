@@ -1,3 +1,6 @@
 <Solution>
-  <Project Path="BTCh11_Bai2.csproj" />
+  <Folder Name="/Database/">
+    <File Path="Database/BTCh11_Bai2.sql" />
+  </Folder>
+  <Project Path="BTCh11_Bai2/BTCh11_Bai2.csproj" />
 </Solution>

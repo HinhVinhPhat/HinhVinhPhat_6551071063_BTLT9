@@ -1,0 +1,11 @@
+2026-10-19 11:00:21.579 +07:00 [INF] Ứng dụng khởi động
+2026-10-19 11:00:32.997 +07:00 [ERR] Lỗi chưa bắt (Application.ThreadException)
+System.InvalidOperationException: Lỗi thử nghiệm từ nút 'Gây lỗi thử'
+   at BTCh11_Bai2.FormKhachThue.btnGayLoi_Click(Object sender, EventArgs e) in C:\Users\V.Phat\Documents\Code\C#\New folder\BTCh11_Bai2\BTCh11_Bai2\Forms\FormKhachThue.cs:line 52
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(HWND hWnd, UInt32 msg, WPARAM wparam, LPARAM lparam)
+2026-10-19 11:00:35.458 +07:00 [INF] Ứng dụng đóng
