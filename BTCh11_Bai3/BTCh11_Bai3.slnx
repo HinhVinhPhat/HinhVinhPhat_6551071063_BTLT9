@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Database/">
+    <File Path="Database/QL_DaNgoai.sql" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="BTCh11_Bai3/BTCh11_Bai3.csproj" />
+</Solution>

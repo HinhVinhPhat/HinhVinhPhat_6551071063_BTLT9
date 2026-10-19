@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\BTCh11_Bai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDBBF5E-C58C-EF72-35C8-7D87FC17EC19}|BTCh11_Bai2.csproj|c:\\users\\v.phat\\documents\\code\\c#\\btch11_bai2\\formkhachthue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDBBF5E-C58C-EF72-35C8-7D87FC17EC19}|BTCh11_Bai2.csproj|solutionrelative:formkhachthue.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDBBF5E-C58C-EF72-35C8-7D87FC17EC19}|BTCh11_Bai2.csproj|c:\\users\\v.phat\\documents\\code\\c#\\btch11_bai2\\formkhachthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FDBBF5E-C58C-EF72-35C8-7D87FC17EC19}|BTCh11_Bai2.csproj|solutionrelative:formkhachthue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDBBF5E-C58C-EF72-35C8-7D87FC17EC19}|BTCh11_Bai2.csproj|c:\\users\\v.phat\\documents\\code\\c#\\btch11_bai2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FDBBF5E-C58C-EF72-35C8-7D87FC17EC19}|BTCh11_Bai2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FDBBF5E-C58C-EF72-35C8-7D87FC17EC19}|BTCh11_Bai2.csproj|c:\\users\\v.phat\\documents\\code\\c#\\btch11_bai2\\btch11_bai2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FDBBF5E-C58C-EF72-35C8-7D87FC17EC19}|BTCh11_Bai2.csproj|solutionrelative:btch11_bai2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d455e273-1acb-491f-b5c9-760a99044cf9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormKhachThue.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\BTCh11_Bai2\\FormKhachThue.Designer.cs",
+              "RelativeDocumentMoniker": "FormKhachThue.Designer.cs",
+              "ToolTip": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\BTCh11_Bai2\\FormKhachThue.Designer.cs",
+              "RelativeToolTip": "FormKhachThue.Designer.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAADwv3UAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T02:28:01.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormKhachThue.cs",
+              "DocumentMoniker": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\BTCh11_Bai2\\FormKhachThue.cs",
+              "RelativeDocumentMoniker": "FormKhachThue.cs",
+              "ToolTip": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\BTCh11_Bai2\\FormKhachThue.cs",
+              "RelativeToolTip": "FormKhachThue.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwDMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T02:26:02.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\BTCh11_Bai2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\BTCh11_Bai2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-19T02:20:12.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BTCh11_Bai2.csproj",
+              "DocumentMoniker": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\BTCh11_Bai2\\BTCh11_Bai2.csproj",
+              "RelativeDocumentMoniker": "BTCh11_Bai2.csproj",
+              "ToolTip": "C:\\Users\\V.Phat\\Documents\\Code\\C#\\BTCh11_Bai2\\BTCh11_Bai2.csproj",
+              "RelativeToolTip": "BTCh11_Bai2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-19T02:10:18.399Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

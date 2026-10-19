@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Database/">
+    <File Path="Database/QL_ChiTieu.sql" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="BTCh11_Bai1/BTCh11_Bai1.csproj" />
+</Solution>

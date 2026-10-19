@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.user
+publish/
+Logs/
+# File cấu hình chứa connection string / mật khẩu -> không đưa lên Git
+appsettings.json
+appsettings.Development.json
